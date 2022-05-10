@@ -1,6 +1,6 @@
 {
   "name": "@d-fischer/detect-node",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Detect Node.JS (as opposite to browser environment) (reliable)",
   "main": "index.js",
   "module": "index.esm.js",
