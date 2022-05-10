@@ -1,6 +1,6 @@
 {
-  "name": "detect-node",
-  "version": "2.1.0",
+  "name": "@d-fischer/detect-node",
+  "version": "3.0.0",
   "description": "Detect Node.JS (as opposite to browser environment) (reliable)",
   "main": "index.js",
   "module": "index.esm.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iliakan/detect-node"
+    "url": "https://github.com/d-fischer/detect-node"
   },
   "keywords": [
     "detect",
